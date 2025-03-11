@@ -6,4 +6,8 @@ public class VersionControl {
     public VersionControl(int version) {
         this.version = version;
     }
+
+    public int getVersion() {
+        return version;
+    }
 }
