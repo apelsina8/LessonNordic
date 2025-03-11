@@ -10,7 +10,7 @@ public class VersionControl {
     }
 
     public int getVersion() {
-        return version + 10;
+        return version + 1000;
     }
 
     public boolean isFlag() {
